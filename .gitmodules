@@ -1,3 +1,3 @@
 [submodule "incorrect_quotes"]
 	path = incorrect_quotes
-	url = ./incorrect_quotes
+	url = https://github.com/jemand2001/incorrect_quotes
