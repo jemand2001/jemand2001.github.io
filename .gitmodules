@@ -1,3 +1,6 @@
 [submodule "incorrect_quotes"]
 	path = incorrect_quotes
 	url = https://github.com/jemand2001/incorrect_quotes
+[submodule "manual-j"]
+	path = manual-j
+	url = git@github.com:jemand2001/manual-j.git
